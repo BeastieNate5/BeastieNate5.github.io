@@ -57,6 +57,8 @@ body {
 h2 {
   position: absolute;
   left: 50%;
-  font-family: 'Arial Black'
+  font-family: 'Arial Black';
+  color: black;
+  background-color: grey;  
 }
   
